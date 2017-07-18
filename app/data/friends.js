@@ -1,8 +1,8 @@
 
 
 var friendsArray =
-[{friendName:"dog",
-friendPhoto:"http://animaliaz-life.com/data_images/dog/dog3.jpg",
+[{friendName:"anthony hopkins",
+friendPhoto:"https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5ODk1NTc5Ml5BMl5BanBnXkFtZTYwMjAwOTI4._V1_UY317_CR6,0,214,317_AL_.jpg",
 scores:["1","2","1","4","1","1","5","1","2","3"]},
 
 {friendName:"cat",
